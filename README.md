@@ -6,7 +6,7 @@ ALUMNOS : Facundo machado , Maximiliano machado
 
 TABLA COMENTARIOS Method = GET - la url es -> api/comentarios => lista todos los comentarios
 
-Method = GET - la url es -> = api/comentarios?sort=filtroA&ord=filtroB => lista los comentarios de forma asc o desc
+Method = GET - la url es -> = api/comentarios?sort=filtroA&order=filtroB => lista los comentarios de forma asc o desc
 
 Method = GET - la url es -> = api/comentarios/id => muestra un comentarios por id
 
